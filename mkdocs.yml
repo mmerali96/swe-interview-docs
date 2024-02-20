@@ -1,0 +1,7 @@
+site_name: Mahdi's SWE Interview Docs
+nav:
+  - Home: index.md
+  - About: about.md
+  - System Design: system-design.md
+  - Binary Search: binary-search.md
+theme: material
